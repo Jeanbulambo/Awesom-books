@@ -2,7 +2,8 @@
 
 # Capstone/ Module one
 
-> In this project, we implemeented ES6 Syntax  in order to implement a awesome Book app
+> "Awesome books" is a simple website that displays a list of books and allows you to add and remove books from that list. By building this application, we learned how to manage data using JavaScript. Thanks to that this website is more interactive.we also used a medium-fidelity wireframe to build the UI.
+
 ## Built With
 
 - HTML
